@@ -1,0 +1,21 @@
+
+
+.bg-dark {
+  background-color: #b9ebf4;
+  color: #000000;
+font-style: oblique ;
+margin-left: 500px ;
+}
+
+
+Button {
+  margin-top: 2rem;
+}
+
+
+.photo1 {
+
+  max-height: 200px;
+  width: 100%;
+
+}
